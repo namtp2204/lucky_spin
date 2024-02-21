@@ -11,6 +11,7 @@ class UsedSpinCode(models.Model):
 
     def __str__(self):
         return self.code
+#git
 
 # class CustomerInfo(models.Model):
 #     facebook_name = models.CharField(max_length=100)
